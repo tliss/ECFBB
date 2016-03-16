@@ -13,3 +13,6 @@ benchmarks like S2.4d and R3.4b. This should prove to be no major problem for mo
 familiar with the framework, but it is important to note nonetheless. 
 
 Thank you for using my first program! I hope it proves useful for you in your lesson planning!
+
+A compiled version is available for download here:
+http://www.tayloraliss.com/files/ECFBB_1.0.rar
