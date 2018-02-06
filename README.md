@@ -1,9 +1,7 @@
 # ECFBB
 ESOL Curriculum Framework Benchmark Browser
 
-This program is a tool to help ESOL teachers in Massachusetts quickly select benchmarks from the Massachusetts Adult Basic Education Curriculum Framework for English Speakers of Other Languages found at:
-    
-http://www.doe.mass.edu/acls/frameworks/frameworks.html
+This program is a tool to help ESOL teachers in Massachusetts quickly select benchmarks from the [Massachusetts Adult Basic Education Curriculum Framework for English Speakers of Other Languages](http://www.doe.mass.edu/acls/frameworks/frameworks.html).
 
 ![alt text](https://i.imgur.com/uvlXjkr.jpg)
 
